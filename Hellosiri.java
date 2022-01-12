@@ -1,4 +1,4 @@
-public class HelloSiri {
+public class Hellosiri {
   public static void main(String[] args) {
     System.out.println("Hello siri welcome to GIT World!");
   }
